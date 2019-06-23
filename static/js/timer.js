@@ -1,9 +1,9 @@
 /* globals $ */
 "use strict";
 
-var countDownDate = new Date("Nov 10, 2018 9:00:00").getTime();
+var countDownDate = new Date(Date.now()).getTime();
 
-var x = setInterval(updateTime, 1000);
+// var x = setInterval(updateTime, 1000);
 updateTime();
 
 function updateTime() {
