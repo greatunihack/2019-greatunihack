@@ -99,6 +99,14 @@ nav {
   padding: 15px !important;
 }
 
+.mlh-badge {
+  width: 7.5vw;
+  position: fixed;
+  right: 10px;
+  z-index: 1000;
+  top: 0px;
+}
+
 .buffer-top-20 {
   margin-top: 20px;
 }
