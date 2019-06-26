@@ -1,6 +1,15 @@
 #faq {
-  background: url("/static/images/faqBG.png") center no-repeat;
-  background-size: cover;
+  background-color: #f4f4f481;
+  background-image: 
+    url(../images/faqBee.png),
+    url(../images/faqHive.png);
+  background-repeat: no-repeat;
+  background-size:
+    30vw,
+    25vw;
+  background-position: left, right;
+  background-position-x: -10vw, 90vw;
+  background-position-y: 60vh, 25vh;
   padding: 100px 0;
   min-height: 0;
   height: auto;
@@ -14,18 +23,19 @@
   padding: 25px 20px;
   border: solid 1px #dedede;
   border-radius: 5px;
-  color: #888888;
+  color: #898989;
   height: 100%
 }
 
 .question-title {
-  color: #7e7e7e;
+  color: #3e3d3d;
   font-weight: 600;
   margin-bottom: 10px;
 }
 
 .question-answer {
   font-size: 13px;
+  color:black;
 }
 
 .question-card:hover {
