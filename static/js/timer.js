@@ -1,15 +1,15 @@
 /* globals $ */
 "use strict";
 
-var countDownDate = new Date(Date.now()).getTime();
+var countDownDate = new Date("November 16, 2019 09:00:00").getTime();
 
-// var x = setInterval(updateTime, 1000);
+var x = setInterval(updateTime, 1000);
 updateTime();
 
 function updateTime() {
   var now = new Date().getTime();
   var distance = now - now;
-  //var distance = countDownDate - now;
+  var distance = countDownDate - now;
 
   var days = Math.floor(distance / (1000 * 60 * 60 * 24));
   var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
