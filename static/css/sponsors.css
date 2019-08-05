@@ -55,7 +55,9 @@ h3 {
   max-width: 170px;
 }
 
-#codethink-logo, #netcraft-logo, #thg-logo {
+#codethink-logo,
+#netcraft-logo,
+#thg-logo {
   margin-top: 50px;
 }
 
@@ -84,13 +86,14 @@ h3 {
   margin-top: 70px;
 }
 
-#aws-logo, #romanianit-logo {
+#aws-logo,
+#romanianit-logo {
   min-width: 250px;
   margin-top: 50px;
   margin-left: 70px;
 }
 
-#daktarimkononi-logo {
+#stickermule-logo {
   max-width: 270px;
   margin-top: 75px;
 }
@@ -113,38 +116,48 @@ h3 {
   #amex-logo {
     max-width: 100px;
   }
+
   #barclays-logo {
     margin-top: 67px;
     max-width: 280px;
   }
+
   #morgan-stanley-logo {
     margin-top: 70px;
     max-width: 280px;
   }
+
   #skyscanner-logo {
     margin-top: 65px;
     margin-left: 10px;
   }
+
   #visa-logo {
     margin-top: 50px;
     margin-left: 20px;
   }
+
   #push-doctor-logo {
     width: 170px;
     margin-left: 33px;
   }
+
   #intel-logo {
     width: 100px;
     margin-left: 30px;
   }
-  #aws-logo, #romanianit-logo  {
+
+  #aws-logo,
+  #romanianit-logo {
     max-width: 70px;
     margin-left: -40px;
   }
+
   #makeit-logo {
     max-width: 130px;
   }
-  #romanianit-logo  {
+
+  #romanianit-logo {
     margin-top: 90px;
   }
 }
@@ -153,31 +166,42 @@ h3 {
   #amex-logo {
     max-width: 80px;
   }
+
   #goldman-sachs-logo {
     max-width: 70px;
   }
-  #codethink-logo, #netcraft-logo, #thg-logo {
+
+  #codethink-logo,
+  #netcraft-logo,
+  #thg-logo {
     margin-top: 35px;
   }
+
   #barclays-logo {
     margin-top: 62px;
   }
+
   #morgan-stanley-logo {
     margin-top: 65px;
   }
+
   #skyscanner-logo {
     margin-top: 60px;
     margin-left: 10px;
   }
+
   #visa-logo {
     margin-top: 48px;
   }
+
   #bentley-logo {
     max-width: 100px;
   }
-  #romanianit-logo  {
+
+  #romanianit-logo {
     margin-top: 80px;
   }
+
   #makeit-logo {
     max-width: 100px;
   }
@@ -187,34 +211,51 @@ h3 {
   #amex-logo {
     max-width: 130px;
   }
+
   #goldman-sachs-logo {
     max-width: 115px;
   }
+
   #netcraft-logo {
     max-width: 250px;
   }
-  #morgan-stanley-logo, #skyscanner-logo, #visa-logo, #barclays-logo {
+
+  #morgan-stanley-logo,
+  #skyscanner-logo,
+  #visa-logo,
+  #barclays-logo {
     margin-top: 20px;
   }
-  #visa-logo, #netcraft-logo, #morgan-stanley-logo, #skyscanner-logo {
+
+  #visa-logo,
+  #netcraft-logo,
+  #morgan-stanley-logo,
+  #skyscanner-logo {
     margin-left: 0;
   }
+
   #push-doctor-logo {
     margin-left: 0;
     max-width: 300px;
   }
-  #aws-logo, #romanianit-logo  {
+
+  #aws-logo,
+  #romanianit-logo {
     width: 150px;
     margin-left: -110px;
   }
+
   #intel-logo {
     width: 130px;
     margin-left: 0;
   }
+
   #bentley-logo {
     max-width: 210px;
   }
-  #daktarimkononi-logo, #romanianit-logo {
+
+  #daktarimkononi-logo,
+  #romanianit-logo {
     margin-top: 30px;
   }
 }
