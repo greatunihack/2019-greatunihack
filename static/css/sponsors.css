@@ -86,6 +86,10 @@ h3 {
   margin-top: 70px;
 }
 
+#airbus-logo {
+  max-width: 250px;
+}
+
 #aws-logo,
 #romanianit-logo {
   min-width: 250px;
